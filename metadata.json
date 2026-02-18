@@ -1,0 +1,7 @@
+{
+  "name": "household-expense-manager",
+  "description": "A fully offline, secure household spending tracker with local storage, encryption-ready logic, and detailed financial reports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
