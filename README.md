@@ -1,7 +1,7 @@
 ## Screenshots
 
-![Home](assets/home.png)
-![Budget](assets/budget.png)
+![Home](home.png)
+![Budget](budget.png)
 
 ## Run and deploy your AI Studio app
 
